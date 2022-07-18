@@ -1,0 +1,46 @@
+/*selector{
+	property : value ;
+}
+*/
+body,form,select,input,option {
+	color: dark;
+	text-align: right;
+background-color: #F9ED97;
+	line-height: 20px;
+	font-style: italic;
+		text-transform: uppercase;
+	line-height: 20px;
+	font-style: italic;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	/*background: url(ایران+خودرو.jpg);*/
+	background-clip: inherit;
+}
+.websr{
+	border:solid 5px;
+}
+
+.websr:hover{
+	border:solid 7px white;
+}
+footer{
+	text-align: center;
+	transition: all 1s;
+	font-family: Baloo Bhaijaan 2;
+
+}
+footer:hover{
+	/*color: white;
+	background-color: black;*/
+	clear: both;
+	font-family: 'Amiri', serif;
+	font-family: 'Amiri', serif;
+font-family: 'Baloo Bhaijaan 2', cursive;
+/*font-family: 'Dancing Script', cursive;*/
+/*font-family: 'Edu TAS Beginner', cursive;*/
+/*font-family: 'IBM Plex Sans Arabic', sans-serif;*/
+/*font-family: 'Ubuntu', sans-serif;*/
+	transform: scale(1.1);
+
+	
+}

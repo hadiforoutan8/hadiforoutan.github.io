@@ -1,0 +1,50 @@
+/*selector{
+	property : value ;
+}*/
+
+*{
+	text-align: right;
+	background: url(how-to-create-cool-website-backgrounds-the-ultimate-guide.jpg);
+}
+li > ul{
+	color: red;
+}
+footer{
+	clear: both;
+	color: black;
+	text-align: center;
+	transition: all 1s;
+
+
+
+}
+body{
+	text-transform: uppercase;
+	line-height: 20px;
+	font-style: italic;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	/*background: url(ایران+خودرو.jpg);*/
+	background-clip: inherit;
+	
+}
+* {
+	text-align: right;
+}
+/*h2 {
+	border:solid 5px steelblue;
+}*/
+h2 {
+	font-family:initial;
+}
+footer:hover{
+	/*color: white;
+	background-color: black;*/
+	clear: both;
+	transform: scale(1.1);
+
+}
+/*.hrs{
+	width: 300px 300px;
+	height: 300px;
+}*/
